@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 3c3fbb98-2e6b-4432-8203-04916cd843c3)
+
+  (paper "A4")
+
+  (title_block
+    (title "Carte Actionneur")
+    (date "2022-03-20")
+    (rev "V4.1")
+    (company "AstroMonkeys")
+  )
+
+  (lib_symbols
+  )
+
+)
