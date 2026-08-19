@@ -13,7 +13,9 @@
 ```
 
 ```mermaid
-
-A --> B;
+graph LR
+  A --> B;
   B --> A;
 ```
+
+![Timing diagram](https://svg.wavedrom.com/github.com/BeeniGit/Test-PCB/blob/main/waveform.json5)
