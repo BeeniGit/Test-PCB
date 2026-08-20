@@ -1,7 +1,7 @@
 { signal: [
-  { name: "clk",         wave: "p..P.N|..." },
-  { name: "Data",        wave: "x.345x|=.x", data: ["head", "body", "tail", "data"] },
-  { name: "Request",     wave: "0.1..0|1.0" },
-  {},
-  { name: "Acknowledge", wave: "1.....|01." }
+  { name: "CK",   wave: "P.......",                                              period: 2  },
+  { name: "CMD",  wave: "x.3x=x4x=x=x=x=x", data: "RAS NOP CAS NOP NOP NOP NOP", phase: 0.5 },
+  { name: "ADDR", wave: "x.=x..=x........", data: "ROW COL",                     phase: 0.5 },
+  { name: "DQS",  wave: "z.......0.1010z." },
+  { name: "DQ",   wave: "z.........5555z.", data: "D0 D1 D2 D3" }
 ]}
