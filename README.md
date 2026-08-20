@@ -18,9 +18,12 @@ graph LR
   B --> A;
 ```
 
-![Timing diagram](https://svg.wavedrom.com/github.com/BeeniGit/Test-PCB/blob/main/waveform.json5)
+![Timing diagram](https://svg.wavedrom.com/github/BeeniGit/Test-PCB/main/waveform.json5)
 
-![Timing diagram](https://svg.wavedrom.com/github.com/BeeniGit/Test-PCB/blob/main/signal-step4.json5)
+![Timing diagram](https://svg.wavedrom.com/github/BeeniGit/Test-PCB/main/signal-step4.json5)
+
+![Timing diagram](https://svg.wavedrom.com/github/BeeniGit/Test-PCB/main/test_svg/signal-step4.json5)
+![signal step4](https://svg.wavedrom.com/github/wavedrom/wavedrom/trunk/test/signal-step4.json5)
 
 ![reg vl](https://svg.wavedrom.com/github/wavedrom/wavedrom/trunk/test/reg-vl.json5)
 
