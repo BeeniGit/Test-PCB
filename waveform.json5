@@ -1,5 +1,5 @@
 { signal: [
-  { name: "clk",         wave: "p.....|..." },
+  { name: "clk",         wave: "p..P.N|..." },
   { name: "Data",        wave: "x.345x|=.x", data: ["head", "body", "tail", "data"] },
   { name: "Request",     wave: "0.1..0|1.0" },
   {},
