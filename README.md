@@ -19,3 +19,9 @@ graph LR
 ```
 
 ![Timing diagram](https://svg.wavedrom.com/github.com/BeeniGit/Test-PCB/blob/main/waveform.json5)
+
+![Timing diagram](https://svg.wavedrom.com/github.com/BeeniGit/Test-PCB/blob/main/signal-step4.json5)
+
+![reg vl](https://svg.wavedrom.com/github/wavedrom/wavedrom/trunk/test/reg-vl.json5)
+
+<img src="https://svg.wavedrom.com/{signal:[{name:'clk',wave:'p......'},{name:'bus',wave:'x.34.5x',data:'head body tail'},{name:'wire',wave:'0.1..0.'}]}"/>
